@@ -1,4 +1,5 @@
 #include <iostream>
+#include "findDesiredNum.hpp"
 using namespace std;
 
 int main() {
