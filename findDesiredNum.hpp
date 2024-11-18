@@ -1,3 +1,5 @@
 #pragma once
 
-int findDesiredNum(int arrayNumbers[], int desiredNum, int arraySize);
+namespace search {  
+    int findDesiredNum(int arrayNumbers[], int desiredNum, int arraySize);
+}
